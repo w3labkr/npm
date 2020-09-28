@@ -7,6 +7,7 @@ Frequently used node package manager configuration.
 **Installation**   
 ```
 $ npm init -y
+$ npm i
 ```
 
 ---
